@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{pub.html}
+= Chengshuai Shi: Publication
+
+== Preprints
+. *C. Shi* and C. Shen, "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications," [https://arxiv.org/abs/2011.01090 arXiv:2011.01090]
+
+== Conference Papers
+. *C. Shi*, C. Shen, and J. Yang, "Federated Multi-Armed Bandits with Personalization,"The 24rd International Conference on Artificial Intelligence and Statistics (AISTATS), Apr. 2021 (*Oral Presentation, 48/1527 = 3%*)
+. *C. Shi* and C. Shen, "[https://arxiv.org/abs/2101.12204 Federated Multi-Armed Bandits,]" The 35th AAAI Conference on Artificial Intelligence (AAAI), Feb. 2021
+. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[http://proceedings.mlr.press/v108/shi20a.html Decentralized Multi-player Multi-armed Bandits with No Collision Information,]"The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS), Aug. 2020
+. *C. Shi*, L. Chen, C. Shen, L. Song, and J. Xu, "[https://ieeexplore.ieee.org/document/9013742 Privacy-Aware Edge Computing Based on Adaptive DNN Partitioning,]" IEEE Globecom, Dec. 2019
