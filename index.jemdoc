@@ -19,7 +19,7 @@ My current research focuses on *multi-armed bandits* (MAB) problems and more gen
 
 Some of my ongoing research projects are
 - *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. I have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Currently, I am working on opening the methodological door between MP-MAB and combinatorial MAB.
-- *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, I proposed to extend core principles in FL into the study of MAB, and am actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper]).
+- *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, I proposed to extend core principles in FL into the study of MAB, and am actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
 
 ~~~
 I am currently looking for summer internships in the field of multi-armed bandits and reinforcement learning. 
@@ -27,7 +27,7 @@ I am currently looking for summer internships in the field of multi-armed bandit
 
 == News
 - 02/2021: Paper accepted as oral presentation at AISTATS 2021!
--- Our paper titled "Federated Multi-armed Bandits with Personlization" (with Prof. Cong Shen and Prof. Jing Yang) is accepted as oral presentation at AISTATS 2021;
+-- Our paper titled [https://arxiv.org/abs/2102.13101 "Federated Multi-armed Bandits with Personlization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as oral presentation at AISTATS 2021;
 -- This is quite a honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
 
 - 02/2021: Paper accepted and presented at AAAI 2021!
