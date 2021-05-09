@@ -26,6 +26,10 @@ I am currently looking for summer internships in the field of multi-armed bandit
 ~~~
 
 == News
+- 04/2021: First journal publication!
+-- Our paper titled [https://arxiv.org/abs/2011.01090 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
+-- Also, a short conference verision is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
+
 - 02/2021: Paper accepted as oral presentation at AISTATS 2021!
 -- Our paper titled [https://arxiv.org/abs/2102.13101 "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as oral presentation at AISTATS 2021;
 -- This is quite a honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
