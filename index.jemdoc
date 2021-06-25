@@ -21,11 +21,17 @@ Some of my ongoing research projects are
 - *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. I have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Currently, I am working on opening the methodological door between MP-MAB and combinatorial MAB.
 - *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, I proposed to extend core principles in FL into the study of MAB, and am actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
 
-~~~
-I am currently looking for summer internships in the field of multi-armed bandits and reinforcement learning. 
-~~~
+#~~~
+#I am currently looking for summer internships in the field of multi-armed bandits and reinforcement learning. 
+#~~~
 
 == News
+- 06/2021: Selected to receive the [https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/ 2021-2022 Bloomberg Data Science Ph.D. Fellowship]!
+-- This will certainly be a great support and encouragement for my research.
+
+- 06/2021: Another journal publication!
+-- Our paper titled "Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions" is accepted to be published at IEEE Trans. Signal Processing.
+
 - 04/2021: First journal publication!
 -- Our paper titled [https://arxiv.org/abs/2011.01090 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
 -- Also, a short conference verision is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
@@ -34,11 +40,10 @@ I am currently looking for summer internships in the field of multi-armed bandit
 -- Our paper titled [https://arxiv.org/abs/2102.13101 "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as oral presentation at AISTATS 2021;
 -- This is quite a honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
 
-- 02/2021: Paper accepted and presented at AAAI 2021!
--- Our paper titled [https://arxiv.org/abs/2101.12204 "Federated Multi-armed Bandits"] (with Prof. Cong Shen) is accepted and presented at AAAI 2021.
+#- 02/2021: Paper accepted and presented at AAAI 2021!
+#-- Our paper titled [https://arxiv.org/abs/2101.12204 "Federated Multi-armed Bandits"] (with Prof. Cong Shen) is accepted and presented at AAAI 2021.
 
-- 11/2020: Successfully passed Ph.D. qualification exam!
--- After a month of preperation, I have successfully passed my Ph.D. qualification exam, and it is quite a pleasure to "officially" become a Ph.D. candidate;
--- Feedback from the examining committee: Excellent presentation and handling of Q&A from both theroretical and practical perspectives. Keep up
-the good work.
+#- 11/2020: Successfully passed Ph.D. qualification exam!
+#-- After a month of preperation, I have successfully passed my Ph.D. qualification exam, and it is quite a pleasure to "officially" become a Ph.D. candidate;
+#-- Feedback from the examining committee: Excellent presentation and handling of Q&A from both theroretical and practical perspectives. Keep up the good work.
 
