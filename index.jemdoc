@@ -22,7 +22,7 @@ Some of my ongoing research projects are
 - *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, I proposed to extend core principles in FL into the study of MAB, and am actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
 
 #~~~
-#I am currently looking for summer internships in the field of multi-armed bandits and reinforcement learning. 
+#I am currently looking for internships (next spring or summer) in the field of multi-armed bandits and reinforcement learning. 
 #~~~
 
 == News
