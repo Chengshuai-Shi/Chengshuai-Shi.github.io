@@ -11,7 +11,7 @@ Phone: 434-218-9860
 
 Advisor: Prof. [http://www.ece.virginia.edu/~cs7dt/ Cong Shen]
 
-About this picture: My mother drew this Dr. Cat wearing a graduation cap when I was in high school. Now I am working towards a Ph.D. and hopefully my family can see me wearing it oneday:)
+About this picture: My mother drew this Dr. Cat wearing a graduation cap when I was in high school. Now I am working towards a Ph.D. and hopefully, my family can see me wearing it one day:)
 ~~~
 
 == Research Interest
@@ -26,6 +26,10 @@ Some of my ongoing research projects are
 #~~~
 
 == News
+- 09/2021: Two papers accepted to NeurIPS 2021!
+-- The first one is on the heterogeneous MP-MAB problem, named "Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization";
+-- The other one is about best arm identification in FMAB, named "(Almost) Free Incentivized Exploration from Decentralized Learning Agents".
+
 - 06/2021: Selected to receive the [https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/ 2021-2022 Bloomberg Data Science Ph.D. Fellowship]!
 -- This will certainly be a great support and encouragement for my research.
 
@@ -34,16 +38,16 @@ Some of my ongoing research projects are
 
 - 04/2021: First journal publication!
 -- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9416568 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
--- Also, a short conference verision is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
+-- Also, a short conference version is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
 
-- 02/2021: Paper accepted as oral presentation at AISTATS 2021!
--- Our paper titled [http://proceedings.mlr.press/v130/shi21c.html "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as oral presentation at AISTATS 2021;
--- This is quite a honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
+- 02/2021: Paper accepted as an oral presentation at AISTATS 2021!
+-- Our paper titled [http://proceedings.mlr.press/v130/shi21c.html "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as an oral presentation at AISTATS 2021;
+-- This is quite an honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
 
 #- 02/2021: Paper accepted and presented at AAAI 2021!
 #-- Our paper titled [https://arxiv.org/abs/2101.12204 "Federated Multi-armed Bandits"] (with Prof. Cong Shen) is accepted and presented at AAAI 2021.
 
 #- 11/2020: Successfully passed Ph.D. qualification exam!
-#-- After a month of preperation, I have successfully passed my Ph.D. qualification exam, and it is quite a pleasure to "officially" become a Ph.D. candidate;
-#-- Feedback from the examining committee: Excellent presentation and handling of Q&A from both theroretical and practical perspectives. Keep up the good work.
+#-- After a month of preparation, I have successfully passed my Ph.D. qualification exam, and it is quite a pleasure to "officially" become a Ph.D. candidate;
+#-- Feedback from the examining committee: Excellent presentation and handling of Q&A from both theoretical and practical perspectives. Keep up the good work.
 
