@@ -26,6 +26,9 @@ Some of my ongoing research projects are
 #~~~
 
 == News
+- 05/2022: One paper accepted to ICML 2022!
+-- Our paper titled "A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to presented at ICML 2022.
+
 - 09/2021: Two papers accepted to NeurIPS 2021!
 -- The first one is on the heterogeneous MP-MAB problem, titled "Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization";
 -- The other one is about best arm identification in FMAB, titled "(Almost) Free Incentivized Exploration from Decentralized Learning Agents".
@@ -40,9 +43,9 @@ Some of my ongoing research projects are
 -- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9416568 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
 -- Also, a short conference version is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
 
-- 02/2021: Paper accepted as an oral presentation at AISTATS 2021!
--- Our paper titled [http://proceedings.mlr.press/v130/shi21c.html "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as an oral presentation at AISTATS 2021;
--- This is quite an honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
+#- 02/2021: Paper accepted as an oral presentation at AISTATS 2021!
+#-- Our paper titled [http://proceedings.mlr.press/v130/shi21c.html "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as an oral presentation at AISTATS 2021;
+#-- This is quite an honor for me, especially in such a competitive year ($\approx 3\%$, 48 oral | 455 accepted | 1527 submitted).
 
 #- 02/2021: Paper accepted and presented at AAAI 2021!
 #-- Our paper titled [https://arxiv.org/abs/2101.12204 "Federated Multi-armed Bandits"] (with Prof. Cong Shen) is accepted and presented at AAAI 2021.
