@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{bio.html}
 = Biography
 
-== Education
+== Educations
 - Ph.D. student, University of Virginia, Charlottesville, VA
 -- {{08/2019-Now}};
 -- Advisor: Prof. [http://www.ece.virginia.edu/~cs7dt/ Cong Shen];
@@ -14,7 +14,14 @@
 -- Major: Electronic Information Engineering;
 -- School of the Gifted Young.
 
-== Experience
+== Industrial Experiences
+- Research Intern, AI Group--Research Understanding Team, Bloomberg L.P., New York City, NY
+-- {{06/2022-09/2022}};
+-- Mentors: Mozhgan Azimpourkivi, Shubham Chopra;
+-- Worked on incorporating estimation uncertainty to improve offline learning to rank designs under
+different click models.
+
+== Academic Experiences
 - Visiting Student, University of Miami, Miami, FL
 -- {{09/2018–11/2018}};
 -- Advisor: Prof. [https://sites.google.com/site/jiexuhomepage/ Jie Xu];
@@ -23,4 +30,8 @@
 - Visiting Student, Chinese University of Hong Kong, Hong Kong, China
 -- {{06/2018–08/2018}};
 -- Advisor: Prof. Minghua Chen;
--- Designed ride-sharing routing algorithms using demand predictors to optimize the revenue..
+-- Designed ride-sharing routing algorithms using demand predictors to optimize the revenue.
+
+== Honors and Rewards
+- [https://engineering.virginia.edu/mcvey-fellowship-recognizes-phd-students-chengshuai-shi-and-beichen-wang-their-academic-excellence 2022--2023 ECE Department McVey Fellowship] (2 recipients in the UVa ECE department);
+- [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 2021--2022 Bloomberg Data Science Ph.D. Fellowship] (*9 recipients in the US*)..

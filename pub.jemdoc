@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{pub.html}
 = Publication
 
+== Preprints
+. W. Xiong, H. Zhong, *C. Shi*, C. Shen, L. Wang, and T. Zhang, "[https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]", /in submission/
+
 == Journal Papers
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9469216 Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions]", IEEE Trans. Signal Processing, vol. 69, pp. 4385--4402, July 2021
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
