@@ -12,12 +12,14 @@ Phone: 434-218-9860
 Advisor: Prof. [http://www.ece.virginia.edu/~cs7dt/ Cong Shen]
 
 About this picture: My mother drew this Dr. Cat wearing a graduation cap when I was in high school. Now I am working towards a Ph.D. and hopefully, my family can see me wearing it one day:)
+
+Since Fall 2021, I have been supported by the generous [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 Bloomberg Data Science Ph.D. fellowship].
 ~~~
 
 == Research Interest
 My current research focuses on *multi-armed bandits* (MAB) problems and more general *reinforcement learning* problems. I also have broad interests in *distributed learning* and *federated learning*.
 
-Some of my ongoing research projects are
+Some of my past and ongoing research projects are
 - *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. We have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Recently, we have utilized the connection between MP-MAB and combinatorial MAB to close the performance gap in [https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html heterogeneous MP-MAB] and perform further generalization.
 - *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, we proposed to extend core principles in FL into the study of MAB, and are actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
 
@@ -26,7 +28,10 @@ Some of my ongoing research projects are
 #~~~
 
 == News
+- 11/2022: Selected to receive the [hhttps://engineering.virginia.edu/chengshuai-shi-earns-fellowship-advance-machine-learning-research 2022--2023 UVA Engineering Endowed Graduate Fellowship]!
+
 - 06/2022: Selected to receive the [https://engineering.virginia.edu/mcvey-fellowship-recognizes-phd-students-chengshuai-shi-and-beichen-wang-their-academic-excellence 2022--2023 ECE Department McVey Fellowship]!
+-- Among two recipents in the ECE Department at UVa.
 
 - 05/2022: One paper accepted to ICML 2022!
 -- Our paper titled "A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to presented at ICML 2022.

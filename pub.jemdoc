@@ -9,7 +9,7 @@
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
 
 == Conference Papers
-. W. Xiong, H. Zhong, *C. Shi*, C. Shen, and T. Zhang, "A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games", The 39th International Conference on Machine Learning (ICML 2022), July 2022
+. W. Xiong, H. Zhong, *C. Shi*, C. Shen, and T. Zhang, "[https://arxiv.org/pdf/2210.01907.pdf A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]", The 39th International Conference on Machine Learning (ICML 2022), July 2022
 .. Also appears at the 10th International Conference on Learning Representations (ICLR 2022) Workshop on Gamification and Multiagent Solutions
 . *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]", The 35th Conference on Neural Information Processing Systems (NeurIPS 2021), Dec. 2021
 . *C. Shi*, H. Xu, W. Xiong, and C. Shen, "[https://proceedings.neurips.cc/paper/2021/hash/054ab897023645cd7ad69525c46992a0-Abstract.html (Almost) Free Incentivized Exploration from Decentralized Learning Agents]", The 35th Conference on Neural Information Processing Systems (NeurIPS 2021), Dec. 2021
