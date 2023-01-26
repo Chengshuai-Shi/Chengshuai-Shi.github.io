@@ -13,7 +13,7 @@ Advisor: Prof. [http://www.ece.virginia.edu/~cs7dt/ Cong Shen]
 
 About this picture: My mother drew this Dr. Cat wearing a graduation cap when I was in high school. Now I am working towards a Ph.D. and hopefully, my family can see me wearing it one day:)
 
-Since Fall 2021, I have been supported by the generous [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 Bloomberg Data Science Ph.D. fellowship].
+*Since Fall 2021, I have been supported by the generous [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 Bloomberg Data Science Ph.D. fellowship].*
 ~~~
 
 == Research Interest
@@ -28,6 +28,9 @@ Some of my past and ongoing research projects are
 #~~~
 
 == News
+- 01/2023: One paper accepted to ICLR 2022!
+-- Our paper "[https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]" (with Wei Xiong, Han Zhong, Prof. Cong Shen, Prof. Liwei Wang, and Prof. Tong Zhang) is accepted to be presented at ICLR 2022.
+
 - 11/2022: Selected to receive the [hhttps://engineering.virginia.edu/chengshuai-shi-earns-fellowship-advance-machine-learning-research 2022--2023 UVA Engineering Endowed Graduate Fellowship]!
 
 - 09/2022: Finished a three-month internship at Bloomberg, NY!
@@ -36,21 +39,21 @@ Some of my past and ongoing research projects are
 -- Among two recipents in the ECE Department at UVa.
 
 - 05/2022: One paper accepted to ICML 2022!
--- Our paper titled "A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to presented at ICML 2022.
+-- Our paper "[https://arxiv.org/abs/2210.01907 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to be presented at ICML 2022.
 
 - 09/2021: Two papers accepted to NeurIPS 2021!
--- The first one is on the heterogeneous MP-MAB problem, titled "Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization";
--- The other one is about best arm identification in FMAB, titled "(Almost) Free Incentivized Exploration from Decentralized Learning Agents".
+-- The first one is on the heterogeneous MP-MAB problem, titled "[https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]";
+-- The other one is about best arm identification in FMAB, titled "[https://proceedings.neurips.cc/paper/2021/hash/054ab897023645cd7ad69525c46992a0-Abstract.html (Almost) Free Incentivized Exploration from Decentralized Learning Agents]".
 
 - 06/2021: Selected to receive the [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 2021-2022 Bloomberg Data Science Ph.D. Fellowship]!
 -- This will certainly be a great support and encouragement for my research.
 
-- 06/2021: Another journal publication!
--- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9469216 "Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions"] is accepted to be published at IEEE Trans. Signal Processing.
+#- 06/2021: Another journal publication!
+#-- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9469216 "Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions"] is accepted to be published at IEEE Trans. Signal Processing.
 
-- 04/2021: First journal publication!
--- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9416568 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
--- Also, a short conference version is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
+#- 04/2021: First journal publication!
+#-- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9416568 "On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications"] is accepted to be published at IEEE Journal on Selected Areas in Information Theory, Special Issue on Sequential, Active, and Reinforcement Learning;
+#-- Also, a short conference version is accepted to be presented at 2021 IEEE International Symposium on Information Theory (ISIT).
 
 #- 02/2021: Paper accepted as an oral presentation at AISTATS 2021!
 #-- Our paper titled [http://proceedings.mlr.press/v130/shi21c.html "Federated Multi-armed Bandits with Personalization"] (with Prof. Cong Shen and Prof. Jing Yang) is accepted as an oral presentation at AISTATS 2021;
