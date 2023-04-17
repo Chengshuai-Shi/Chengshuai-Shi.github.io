@@ -17,17 +17,21 @@ About this picture: My mother drew this Dr. Cat wearing a graduation cap when I 
 ~~~
 
 == Research Interest
-My current research focuses on *multi-armed bandits* (MAB) problems and more general *reinforcement learning* problems. I also have broad interests in *distributed learning* and *federated learning*.
+My current research focuses on *multi-armed bandits* (MAB) problems and more general *reinforcement learning* problems, especially their multi-agent versions. I also have broad interests in *distributed learning* and *federated learning*.
 
-Some of my past and ongoing research projects are
-- *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. We have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Recently, we have utilized the connection between MP-MAB and combinatorial MAB to close the performance gap in [https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html heterogeneous MP-MAB] and perform further generalization.
-- *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, we proposed to extend core principles in FL into the study of MAB, and are actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
+#Some of my past and ongoing research projects are
+#- *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. We have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Recently, we have utilized the connection between MP-MAB and combinatorial MAB to close the performance gap in [https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html heterogeneous MP-MAB] and perform further generalization.
+#- *Federated MAB (FMAB)*: Federated learning (FL) is an emerging and promising distributed machine learning paradigm. While the current FL studies are mostly focused on supervised learning, we proposed to extend core principles in FL into the study of MAB, and are actively working on this new bandit paradigm ([https://arxiv.org/abs/2101.12204 paper], [https://arxiv.org/abs/2102.13101 paper]).
 
 #~~~
 #I am currently looking for internships (next spring or summer) in the field of multi-armed bandits and reinforcement learning. 
 #~~~
 
 == News
+- 04/2023: Two papers accepted to IEEE ISIT 2023!
+-- The first one titled "On High-Dimensional and Low-Rank Tensor Bandits" (with Prof. Cong Shen and Prof. Nikolaos Sidiropoulos) is on extending the one-dimensional system in linear bandits to a high-dimensional one characterized by low-rank tensors;
+-- The second one titled "Reward Teaching for Federated Multi-Armed Bandits" (with Wei Xiong, Prof. Cong Shen and Prof. Jing Yang) is on using implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system.
+
 - 01/2023: One paper accepted to ICLR 2023!
 -- Our paper "[https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]" (with Wei Xiong, Han Zhong, Prof. Cong Shen, Prof. Liwei Wang, and Prof. Tong Zhang) is accepted to be presented at ICLR 2023.
 
@@ -41,12 +45,12 @@ Some of my past and ongoing research projects are
 - 05/2022: One paper accepted to ICML 2022!
 -- Our paper "[https://arxiv.org/abs/2210.01907 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to be presented at ICML 2022.
 
-- 09/2021: Two papers accepted to NeurIPS 2021!
--- The first one is on the heterogeneous MP-MAB problem, titled "[https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]";
--- The other one is about best arm identification in FMAB, titled "[https://proceedings.neurips.cc/paper/2021/hash/054ab897023645cd7ad69525c46992a0-Abstract.html (Almost) Free Incentivized Exploration from Decentralized Learning Agents]".
+#- 09/2021: Two papers accepted to NeurIPS 2021!
+#-- The first one is on the heterogeneous MP-MAB problem, titled "[https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]";
+#-- The other one is about best arm identification in FMAB, titled "[https://proceedings.neurips.cc/paper/2021/hash/054ab897023645cd7ad69525c46992a0-Abstract.html (Almost) Free Incentivized Exploration from Decentralized Learning Agents]".
 
-- 06/2021: Selected to receive the [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 2021-2022 Bloomberg Data Science Ph.D. Fellowship]!
--- This will certainly be a great support and encouragement for my research.
+#- 06/2021: Selected to receive the [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 2021-2022 Bloomberg Data Science Ph.D. Fellowship]!
+#-- This will certainly be a great support and encouragement for my research.
 
 #- 06/2021: Another journal publication!
 #-- Our paper titled [https://ieeexplore.ieee.org/abstract/document/9469216 "Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions"] is accepted to be published at IEEE Trans. Signal Processing.
