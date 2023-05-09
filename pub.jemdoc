@@ -6,8 +6,9 @@
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
 
 == Conference Papers
-. *C. Shi*, C. Shen, and N. D. Sidiropoulos, "On High-Dimensional and Low-Rank Tensor Bandits", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
-. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "Reward Teaching for Federated Multi-Armed Bandits", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
+. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources", The 40th International Conference on Machine Learning (ICML 2023), June 2023
+. *C. Shi*, C. Shen, and N. D. Sidiropoulos, "[https://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
+. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
 . K. Yang, *C. Shi*, and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/10089695 Teaching Reinforcement Learning Agents via Reinforcement Learning]", 57th Annual Conference on Information Sciences and Systems (CISS 2023), March 2023 (Invited Paper)
 . W. Xiong, H. Zhong, *C. Shi*, C. Shen, L. Wang, and T. Zhang, "[https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]", The Eleventh International Conference on Learning Representations (ICLR 2023), May 2023
 . W. Xiong, H. Zhong, *C. Shi*, C. Shen, and T. Zhang, "[https://arxiv.org/abs/2210.01907 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]", The 39th International Conference on Machine Learning (ICML 2022), July 2022

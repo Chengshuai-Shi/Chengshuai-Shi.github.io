@@ -28,9 +28,14 @@ My current research focuses on *multi-armed bandits* (MAB) problems and more gen
 #~~~
 
 == News
+- 04/2023: Selected to receive the 2023 Charles L. Brown Department of Electrical and Computer Engineering’s Louis T Rader Graduate Research Award!
+
+- 04/2023: One paper accepted to ICML 2023!
+-- Our paper "Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources" (with Wei Xiong, Prof. Cong Shen and Prof. Jing Yang) is accepted to be presented at ICML 2022.
+
 - 04/2023: Two papers accepted to IEEE ISIT 2023!
--- The first one titled "On High-Dimensional and Low-Rank Tensor Bandits" (with Prof. Cong Shen and Prof. Nikolaos Sidiropoulos) is on extending the one-dimensional system in linear bandits to a high-dimensional one characterized by low-rank tensors;
--- The second one titled "Reward Teaching for Federated Multi-Armed Bandits" (with Wei Xiong, Prof. Cong Shen and Prof. Jing Yang) is on using implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system.
+-- The first one titled "[https://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]" (with Prof. Cong Shen and Prof. Nikolaos Sidiropoulos) is on extending the one-dimensional system in linear bandits to a high-dimensional one characterized by low-rank tensors;
+-- The second one titled "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]" (with Wei Xiong, Prof. Cong Shen and Prof. Jing Yang) is on using implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system.
 
 - 01/2023: One paper accepted to ICLR 2023!
 -- Our paper "[https://arxiv.org/abs/2205.15512 Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]" (with Wei Xiong, Han Zhong, Prof. Cong Shen, Prof. Liwei Wang, and Prof. Tong Zhang) is accepted to be presented at ICLR 2023.
@@ -39,11 +44,11 @@ My current research focuses on *multi-armed bandits* (MAB) problems and more gen
 
 - 09/2022: Finished a three-month internship at Bloomberg, NY!
 
-- 06/2022: Selected to receive the [https://engineering.virginia.edu/mcvey-fellowship-recognizes-phd-students-chengshuai-shi-and-beichen-wang-their-academic-excellence 2022--2023 ECE Department McVey Fellowship]!
--- Among two recipents in the ECE Department at UVa.
+#- 06/2022: Selected to receive the [https://engineering.virginia.edu/mcvey-fellowship-recognizes-phd-students-chengshuai-shi-and-beichen-wang-their-academic-excellence 2022--2023 ECE Department McVey Fellowship]!
+#-- Among two recipents in the ECE Department at UVa.
 
-- 05/2022: One paper accepted to ICML 2022!
--- Our paper "[https://arxiv.org/abs/2210.01907 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to be presented at ICML 2022.
+#- 05/2022: One paper accepted to ICML 2022!
+#-- Our paper "[https://arxiv.org/abs/2210.01907 A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]" (with Wei Xiong, Han Zhong, Prof. Cong Shen and Prof. Tong Zhang) is accepted to be presented at ICML 2022.
 
 #- 09/2021: Two papers accepted to NeurIPS 2021!
 #-- The first one is on the heterogeneous MP-MAB problem, titled "[https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]";
