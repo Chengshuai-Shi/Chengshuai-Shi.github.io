@@ -2,11 +2,13 @@
 = Publication
 
 == Journal Papers
+. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://ieeexplore.ieee.org/document/10325655 Reward Teaching for Federated Multi-Armed Bandits]", IEEE Trans. on Signal Processing, vol.71, pp.4407-4422, Nov. 2023
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9469216 Multi-player Multi-armed Bandits with Collision-Dependent Reward Distributions]", IEEE Trans. Signal Processing, vol. 69, pp. 4385--4402, July 2021
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
 
 == Conference Papers
-. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources", The 40th International Conference on Machine Learning (ICML 2023), June 2023
+. *C. Shi*, R. Zhou, K. Yang, and C. Shen, "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]", The Multi-Agent Security Workshop at The 37th Conference on Neural Information Processing Systems (MASEC@NeurIPS 2023), Dec. 2023
+. *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2306.08364 Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources]", The 40th International Conference on Machine Learning (ICML 2023), June 2023
 . *C. Shi*, C. Shen, and N. D. Sidiropoulos, "[https://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
 . *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
 . K. Yang, *C. Shi*, and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/10089695 Teaching Reinforcement Learning Agents via Reinforcement Learning]", 57th Annual Conference on Information Sciences and Systems (CISS 2023), March 2023 (Invited Paper)
