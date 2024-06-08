@@ -33,7 +33,7 @@ I am interested in general machine learning research, and am actively exploring 
 -- A preliminary version appears in NeurIPS 2023 Workshop on Multi-Agent Security, Dec. 2023.
 
 - 05/2024: New preprints available!
--- Our work "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]" is available on arXiv, where a systematical relationship between prompt optimization and best arm identification in MAB is established. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work is Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
+-- Our work "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]" is available on arXiv, where a systematical relationship between prompt optimization and best arm identification in MAB is established. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
 -- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
 
 - 04/2024: One paper accepted to IEEE Transcations on Wireless Communications!
