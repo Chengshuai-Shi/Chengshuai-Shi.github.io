@@ -35,9 +35,9 @@ I am broadly interested in machine learning research, with a primary focus on *r
 
 == News
 - 09/2024: Three papers accepted to NeurIPS 2024! Online versions coming soon!
--- (Co-first-authored) "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]": A systematical relationship between prompt optimization and best arm identification in MAB is established in this work. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
+-- \[Co-first-authored\] "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]": A systematical relationship between prompt optimization and best arm identification in MAB is established in this work. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
 --- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
--- (First-authored) "Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models": We provide theoretical understanding and empirical evidences on the in-context learning capabilities of pre-trained transformers in multiplayer competitive games. This is a joint work with Kun Yang (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
+-- \[First-authored\] "Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models": We provide theoretical understanding and empirical evidences on the in-context learning capabilities of pre-trained transformers in multiplayer competitive games. This is a joint work with Kun Yang (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
 --- A preliminary version appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024.
 -- "Mixture of Demonstrations for In-Context Learning": We provide a novel framework to effectively select demosntrations for prompts used in in-context learning, leveraing an expert-wise training strategy. This is a joint work with Song Wang (UVA), Zihan Chen (UVA), Prof. Cong Shen (UVA), and Prof. Jundong Li (UVA).
 
@@ -45,18 +45,14 @@ I am broadly interested in machine learning research, with a primary focus on *r
 -- Our work "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]" is available on arXiv. In this work, we proposed a multi-turn direct preference learning framework to enhance the mathematical reasoning capabilities of large language models (LLMs), with its superiority demonstrated by both theoretical guarantees and empirical results. This is a joint work with many amazing researchers from UIUC, Princeton, Google Research, and Google Deepmind.
 
 - 06/2024: One paper accepted to Transactions on Machine Learning Research (TMLR)!
--- Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
+-- \[First-authored\] Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
 -- A preliminary version appears in NeurIPS 2023 Workshop on Multi-Agent Security, Dec. 2023.
-
-#- 05/2024: New preprint available!
-#-- Our work "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]" is available on arXiv, where a systematical relationship between prompt optimization and best arm identification in MAB is established. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
-#-- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
 
 - 04/2024: One paper accepted to IEEE Transactions on Wireless Communications!
 -- Our paper "[https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]" is accepted to IEEE Transactions on Wireless Communications. This is a joint work with Kun Yang (UVA), Prof. Cong Shen (UVA), Prof. Jing Yang (PSU), Shu-ping Yeh (Intel), and Jaroslaw J. Sydir (Intel).
 
 - 11/2023: One paper accepted to IEEE Transations on Signal Processing!
--- Our paper "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]" is accepted to IEEE Transactions on Signal Processing, which leverages implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system. This is a joint work with Wei Xiong (UIUC), Prof. Cong Shen (UVA), and Prof. Jing Yang (PSU).
+-- \[First-authored\] Our paper "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]" is accepted to IEEE Transactions on Signal Processing, which leverages implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system. This is a joint work with Wei Xiong (UIUC), Prof. Cong Shen (UVA), and Prof. Jing Yang (PSU).
 
 #- 09/2023: Finished a three-month internship at Bloomberg, London!
 
