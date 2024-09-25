@@ -44,8 +44,8 @@ I am broadly interested in machine learning research, with a primary focus on *r
 - 09/2024: New preprint available!
 -- Our work "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]" is available on arXiv. In this work, we proposed a multi-turn direct preference learning framework to enhance the mathematical reasoning capabilities of large language models (LLMs), with its superiority demonstrated by both theoretical guarantees and empirical results. This is a joint work with many amazing researchers from UIUC, Princeton, Google Research, and Google Deepmind.
 
-- 06/2024: One paper accepted to Transcations on Machine Learning Research (TMLR)!
--- Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transcations on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
+- 06/2024: One paper accepted to Transactions on Machine Learning Research (TMLR)!
+-- Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
 -- A preliminary version appears in NeurIPS 2023 Workshop on Multi-Agent Security, Dec. 2023.
 
 #- 05/2024: New preprint available!
