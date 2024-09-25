@@ -5,8 +5,6 @@
 
 == Preprints
 . W. Xiong, *C. Shi*, J. Shen, A. Rosenberg, Z. Qin, D. Calandriello, M. Khalman, R. Joshi, B. Piot, M. Saleh, C. Jin, T. Zhang, and T. Liu, "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]", Sep. 2024
-. *C. Shi*, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]", May 2024
-.. Also appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024
 
 == Journal Papers
 . *C. Shi*, R. Zhou, K. Yang, and C. Shen, "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]", Transcations on Machine Learning Research (TMLR), July 2024
@@ -17,6 +15,11 @@
 . *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
 
 == Conference Papers
+. *C. Shi*, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]", The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024), Dec. 2024
+.. Also appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024
+. *C. Shi*, K. Yang, J. Yang, and C. Shen, "Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models", The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024), Dec. 2024
+.. Also appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024
+. S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, "Mixture of Demonstrations for In-Context Learning", The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024), Dec. 2024
 . *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2306.08364 Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources]", The 40th International Conference on Machine Learning (ICML 2023), June 2023
 . *C. Shi*, C. Shen, and N. D. Sidiropoulos, "[https://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
 . *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]", 2023 IEEE International Symposium on Information Theory (ISIT 2023), June 2023
