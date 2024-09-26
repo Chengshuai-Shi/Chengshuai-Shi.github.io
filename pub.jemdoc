@@ -3,6 +3,8 @@
 
 [https://scholar.google.com/citations?user=twvDiW8AAAAJ&hl=en Google Scholar Profile]
 
+\*: Equal contribution
+
 == Preprints
 . W. Xiong, *C. Shi*, J. Shen, A. Rosenberg, Z. Qin, D. Calandriello, M. Khalman, R. Joshi, B. Piot, M. Saleh, C. Jin, T. Zhang, and T. Liu, "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]", Sep. 2024
 
@@ -15,7 +17,7 @@
 . \[IEEE JSAIT\] *C. Shi* and C. Shen, "[https://ieeexplore.ieee.org/abstract/document/9416568 On No-Sensing Adversarial Multi-player Multi-armed Bandits with Collision Communications]", IEEE Journal on Selected Areas in Information Theory, vol. 2, no. 2, pp. 515-533, June 2021
 
 == Conference Papers
-. \[NeurIPS 2024\] *C. Shi*, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
+. \[NeurIPS 2024\] *C. Shi\**, K. Yang\*, Z. Chen, J. Li, J. Yang, and C. Shen, "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
 .. Also appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024
 . \[NeurIPS 2024\] *C. Shi*, K. Yang, J. Yang, and C. Shen, "Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
 .. Also appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024
