@@ -19,7 +19,7 @@
 == Conference Papers
 . \[NeurIPS 2024\] *C. Shi\**, K. Yang\*, Z. Chen, J. Li, J. Yang, and C. Shen, "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
 .. Also appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024
-. \[NeurIPS 2024\] *C. Shi*, K. Yang, J. Yang, and C. Shen, "Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
+. \[NeurIPS 2024\] *C. Shi*, K. Yang, J. Yang, and C. Shen, "[https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
 .. Also appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024
 . \[NeurIPS 2024\] S. Wang, Z. Chen, *C. Shi*, C. Shen, and J. Li, "Mixture of Demonstrations for In-Context Learning", The 38th Annual Conference on Neural Information Processing Systems, Dec. 2024
 . \[ICML 2023\] *C. Shi*, W. Xiong, C. Shen, and J. Yang, "[https://arxiv.org/abs/2306.08364 Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources]", The 40th International Conference on Machine Learning, June 2023
