@@ -23,7 +23,13 @@ About this picture: My mother draw this "Dr. Cat" wearing a graduation cap when 
 ~~~
 
 == Research Interest
-I am broadly interested in machine learning research, with a primary focus on *reinforcement learning (RL)*. My current work explores emerging topics such as *foundation models*, particularly *in-context RL* and *RL from human feedback (RLHF)*. My previous research concentrated on the *multi-agent systems* of *RL* (including *multi-armed bandits (MAB)*), emphasizing both theoretical foundations and practical applications, in fields like *wireless communication* and *recommender systems*. Additionally, I have a strong interest in *distributed learning* and *federated learning*.
+I am interested in general *machine learning* research and am actively focusing on topics related to *intelligent decision-making*:
+- *{{<font color="DarkOrange">Foundational principles</font>}}* in areas of *reinforcement learning*, *multi-armed bandits*, *game theory*, and *multi-agent systems*
+- *{{<font color="DarkRed">Applications in emerging fields</font>}}*, such as *wireless communication*, *recommender systems*, and *large language models*. 
+
+My research is towards a vision of *{{<font color="Blue">building intelligent decision-making agents</font>}}* that are both *{{<font color="DarkOrange">broadly applicable</font>}}* and *{{<font color="DarkRed">finely adaptable</font>}}*.
+
+#I am broadly interested in machine learning research, with a primary focus on *reinforcement learning (RL)*. My current work explores emerging topics such as *foundation models*, particularly *in-context RL* and *RL from human feedback (RLHF)*. My previous research concentrated on the *multi-agent systems* of *RL* (including *multi-armed bandits (MAB)*), emphasizing both theoretical foundations and practical applications, in fields like *wireless communication* and *recommender systems*. Additionally, I have a strong interest in *distributed learning* and *federated learning*.
 
 #Some of my past and ongoing research projects are
 #- *Decentralized multi-player MAB (MP-MAB)*: The MP-MAB problem, in which multiple players simultaneously play the bandit game in a fully decentralized fashion and interact through arm collisions, has sparked significant interest in recent years. We have introduced information-theoretical tools, e.g., error correction/detection coding and Z-channel model, into the study of no-sensing MP-MAB, where collisions are not perceivable by players ([http://proceedings.mlr.press/v108/shi20a.html stochastic], [https://arxiv.org/abs/2011.01090 adversarial]). Recently, we have utilized the connection between MP-MAB and combinatorial MAB to close the performance gap in [https://proceedings.neurips.cc/paper/2021/hash/bcb3303a96a92dc38c12992941de7627-Abstract.html heterogeneous MP-MAB] and perform further generalization.
@@ -34,7 +40,7 @@ I am broadly interested in machine learning research, with a primary focus on *r
 #~~~
 
 == News
-- 09/2024: Three papers accepted to NeurIPS 2024!
+- 09/2024: Three papers accepted to {{<font color="Red">NeurIPS 2024</font>}}!
 -- \[Co-first-authored\] "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]": A systematical relationship between prompt optimization and best arm identification in MAB is established in this work. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
 --- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
 -- \[First-authored\] "[https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]": We provide theoretical understanding and empirical evidences on the in-context learning capabilities of pre-trained transformers in multiplayer competitive games. This is a joint work with Kun Yang (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
@@ -44,14 +50,14 @@ I am broadly interested in machine learning research, with a primary focus on *r
 - 09/2024: New preprint available!
 -- Our work "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]" is available on arXiv. In this work, we proposed a multi-turn direct preference learning framework to enhance the mathematical reasoning capabilities of large language models (LLMs), with its superiority demonstrated by both theoretical guarantees and empirical results. This is a joint work with many amazing researchers from UIUC, Princeton, Google Research, and Google Deepmind.
 
-- 06/2024: One paper accepted to Transactions on Machine Learning Research (TMLR)!
+- 06/2024: One paper accepted to {{<font color="Red">Transactions on Machine Learning Research (TMLR)</font>}}!
 -- \[First-authored\] Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
 -- A preliminary version appears in NeurIPS 2023 Workshop on Multi-Agent Security, Dec. 2023.
 
-- 04/2024: One paper accepted to IEEE Transactions on Wireless Communications!
+- 04/2024: One paper accepted to {{<font color="Red">IEEE Transactions on Wireless Communications</font>}}!
 -- Our paper "[https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]" is accepted to IEEE Transactions on Wireless Communications. This is a joint work with Kun Yang (UVA), Prof. Cong Shen (UVA), Prof. Jing Yang (PSU), Shu-ping Yeh (Intel), and Jaroslaw J. Sydir (Intel).
 
-- 11/2023: One paper accepted to IEEE Transations on Signal Processing!
+- 11/2023: One paper accepted to {{<font color="Red">IEEE Transations on Signal Processing</font>}}!
 -- \[First-authored\] Our paper "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]" is accepted to IEEE Transactions on Signal Processing, which leverages implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system. This is a joint work with Wei Xiong (UIUC), Prof. Cong Shen (UVA), and Prof. Jing Yang (PSU).
 
 #- 09/2023: Finished a three-month internship at Bloomberg, London!
