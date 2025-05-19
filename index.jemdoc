@@ -40,11 +40,14 @@ My research is towards a vision of *{{<font color="Blue">building intelligent de
 #~~~
 
 == News
+- 05/2025: One paper accepted to {{<font color="Red">UAI 2025</font>}}!
+-- "Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis": We propose a unified RL approach that combines offline data with online exploration, yielding improved sub-optimality and regret bounds while revealing distinct coverage requirements. This is a joint work with Ruiquan Huang (PSU), Donghao Li (UVA), Prof. Cong Shen (UVA), and Prof. Jing Yang (UVA).
+
 - 01/2025: One paper accepted to {{<font color="Red">ICLR 2025</font>}}!
 -- "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]": We propose a multi-turn direct preference learning framework to enhance the mathematical reasoning capabilities of large language models (LLMs), with its superiority demonstrated by both theoretical guarantees and empirical results. This is a joint work with many amazing researchers from UIUC, Princeton, Google Research, and Google Deepmind.
 
 - 01/2025: One paper accepted to {{<font color="Red">AISTATS 2025</font>}}!
--- “Cost-Aware Optimal Pairwise Pure Exploration”: We extend the canonical best-arm identification (BAI) study in two directions: (1) tackling a broader set of tasks, termed pairwise exploration tasks, covering BAI, ranking identification, top-k identification and others in a unified manner; (2) minimizing the arm-specific costs, instead of total number of arm-pulling. This is a joint work with Di Wu (UVA), Ruida Zhou (UCLA), and Prof. Cong Shen (UVA).
+-- “[https://arxiv.org/abs/2503.07877 Cost-Aware Optimal Pairwise Pure Exploration]”: We extend the canonical best-arm identification (BAI) study in two directions: (1) tackling a broader set of tasks, termed pairwise exploration tasks, covering BAI, ranking identification, top-k identification and others in a unified manner; (2) minimizing the arm-specific costs, instead of total number of arm-pulling. This is a joint work with Di Wu (UVA), Ruida Zhou (UCLA), and Prof. Cong Shen (UVA).
 
 
 - 09/2024: Three papers accepted to {{<font color="Red">NeurIPS 2024</font>}}!
@@ -58,8 +61,8 @@ My research is towards a vision of *{{<font color="Blue">building intelligent de
 -- \[First-authored\] Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
 -- A preliminary version appears in NeurIPS 2023 Workshop on Multi-Agent Security, Dec. 2023.
 
-- 04/2024: One paper accepted to {{<font color="Red">IEEE Transactions on Wireless Communications</font>}}!
--- Our paper "[https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]" is accepted to IEEE Transactions on Wireless Communications. This is a joint work with Kun Yang (UVA), Prof. Cong Shen (UVA), Prof. Jing Yang (PSU), Shu-ping Yeh (Intel), and Jaroslaw J. Sydir (Intel).
+#- 04/2024: One paper accepted to {{<font color="Red">IEEE Transactions on Wireless Communications</font>}}!
+#-- Our paper "[https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]" is accepted to IEEE Transactions on Wireless Communications. This is a joint work with Kun Yang (UVA), Prof. Cong Shen (UVA), Prof. Jing Yang (PSU), Shu-ping Yeh (Intel), and Jaroslaw J. Sydir (Intel).
 
 #- 11/2023: One paper accepted to {{<font color="Red">IEEE Transations on Signal Processing</font>}}!
 #-- \[First-authored\] Our paper "[https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]" is accepted to IEEE Transactions on Signal Processing, which leverages implicit reward adjustments to guide autonomous bandit agents in a federated multi-armed bandit system. This is a joint work with Wei Xiong (UIUC), Prof. Cong Shen (UVA), and Prof. Jing Yang (PSU).
