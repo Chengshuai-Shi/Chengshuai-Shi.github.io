@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{bio.html}
 = Biography
 
+== Current Occupation
+- Postdoctoral Fellow, Princeton University, NJ
+-- {{09/2025-Now}};
+-- [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)]
+
 == Educations
 - Ph.D., University of Virginia, Charlottesville, VA
 -- {{08/2019-05/2024}};
@@ -16,8 +21,8 @@
 
 == Experiences
 - Senior Reseacher, AI Group--Research Discovery Team, Bloomberg L.P., New York, NY
--- {{08/2024-Now}};
--- Working on leveraging large language models (LLMs) to perform document summarization tasks in the financial domain.
+-- {{08/2024-08/2025}};
+-- Working on leveraging large language models (LLMs) to perform document search and summarization tasks in the financial domain.
 
 - Visiting Student, CS Department, University of Illinois Urbana-Champaign, Urbana-Champaign, IL
 -- {{02/2024--05/2024}};
