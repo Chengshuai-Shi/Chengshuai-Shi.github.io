@@ -31,6 +31,8 @@ My research interests lie in machine learning, with a focus on intelligent decis
 #~~~
 
 == News
+- 09/2025: One paper accepted to {{<font color="Red">NeurIPS 2025</font>}}!
+-- "Greedy Sampling Is Provably Efficient For RLHF": We show that, under both the Bradley–Terry model and a more general preference model, greedy sampling based on empirical estimates is provably efficient for RLHF with the KL-regularized objective. This work is a joint work with Di Wu (UVA), Prof. Jing Yang (UVA), and Prof. Cong Shen (UVA).
 
 - 09/2025: I have joined Princeton University as a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative! Feeling excited for this new adventure!
 
@@ -43,12 +45,12 @@ My research interests lie in machine learning, with a focus on intelligent decis
 - 01/2025: One paper accepted to {{<font color="Red">AISTATS 2025</font>}}!
 -- “[https://arxiv.org/abs/2503.07877 Cost-Aware Optimal Pairwise Pure Exploration]”: We extend the canonical best-arm identification (BAI) study in two directions: (1) tackling a broader set of tasks, termed pairwise exploration tasks, covering BAI, ranking identification, top-k identification and others in a unified manner; (2) minimizing the arm-specific costs, instead of total number of arm-pulling. This is a joint work with Di Wu (UVA), Ruida Zhou (UCLA), and Prof. Cong Shen (UVA).
 
-- 09/2024: Three papers accepted to {{<font color="Red">NeurIPS 2024</font>}}!
--- \[Co-first-authored\] "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]": A systematical relationship between prompt optimization and best arm identification in MAB is established in this work. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
---- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
--- \[First-authored\] "[https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]": We provide theoretical understanding and empirical evidences on the in-context learning capabilities of pre-trained transformers in multiplayer competitive games. This is a joint work with Kun Yang (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
---- A preliminary version appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024.
--- "Mixture of Demonstrations for In-Context Learning": We provide a novel framework to effectively select demosntrations for prompts used in in-context learning, leveraing an expert-wise training strategy. This is a joint work with Song Wang (UVA), Zihan Chen (UVA), Prof. Cong Shen (UVA), and Prof. Jundong Li (UVA).
+#- 09/2024: Three papers accepted to {{<font color="Red">NeurIPS 2024</font>}}!
+#-- \[Co-first-authored\] "[https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]": A systematical relationship between prompt optimization and best arm identification in MAB is established in this work. Built upon this relationship, a general framework is proposed to efficiently perform prompt optimization. This is a joint work with Kun Yang (UVA), Zihan Chen (UVA), Prof. Jundong Li (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
+#--- A preliminary version appears in ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models, May 2024.
+#-- \[First-authored\] "[https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]": We provide theoretical understanding and empirical evidences on the in-context learning capabilities of pre-trained transformers in multiplayer competitive games. This is a joint work with Kun Yang (UVA), Prof. Jing Yang (PSU), and Prof. Cong Shen (UVA).
+#--- A preliminary version appears in ICLR 2024 Workshop on Generative Models for Decision Making, May 2024.
+#-- "Mixture of Demonstrations for In-Context Learning": We provide a novel framework to effectively select demosntrations for prompts used in in-context learning, leveraing an expert-wise training strategy. This is a joint work with Song Wang (UVA), Zihan Chen (UVA), Prof. Cong Shen (UVA), and Prof. Jundong Li (UVA).
 
 #- 06/2024: One paper accepted to {{<font color="Red">Transactions on Machine Learning Research (TMLR)</font>}}!
 #-- \[First-authored\] Our paper "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]" is accepted to Transactions on Machine Learning Research, which provides a novel federated contextual bandits design capable of flexibly incorporating federated learning protocols. This is a joint work with Ruida Zhou (UCLA), Kun Yang (UVA), and Prof. Cong Shen (UVA).
