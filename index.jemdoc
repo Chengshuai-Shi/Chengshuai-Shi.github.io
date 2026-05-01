@@ -18,7 +18,7 @@ Phone: 434-218-9860
 #*Since Fall 2021, I have been supported by the generous [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 Bloomberg Data Science Ph.D. fellowship].*
 ~~~
 
-I am currently a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative at Princeton University, where I work closely with Professor [https://sites.google.com/view/cjin/home Chi Jin]. Prior to joining PLI, I worked for a year as a Senior Machine Learning Research Engineer in the [https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/ AI group at Bloomberg], New York City.
+I am currently a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative at Princeton University, where I work closely with Professor [https://sites.google.com/view/cjin/home Chi Jin], Professor [https://karthikncode.github.io/ Karthik Narasimhan], and Professor [https://www.cs.princeton.edu/~danqic/ Danqi Chen]. Prior to joining PLI, I worked for a year as a Senior Machine Learning Research Engineer in the [https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/ AI group at Bloomberg], New York City.
 
 I received my Ph.D. in Electrical Engineering from the University of Virginia in 2024, where I was advised by Professor [https://cshen317.github.io/ Cong Shen]. During my Ph.D. (2021–2024), I was honored to be supported by the [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022 Bloomberg Data Science Ph.D. fellowship].
 
@@ -31,6 +31,10 @@ My research interests lie in machine learning, with a focus on intelligent decis
 #~~~
 
 == News
+- 04/2026: Two papers accepted to {{<font color="Red">ICML 2026</font>}}!
+-- "f-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses": This work provides the first unified theory and provably efficient online RLHF algorithms for general f-divergence regularization, covering alternatives beyond reverse KL such as forward KL and chi-squared divergence.
+-- "SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection": This work proposes a framework SMILE to jointly optimize instructions and ICL demonstrations by modeling their interactions with a submodular surrogate, yielding more robust prompt optimization than separately tuning each component.
+
 - 01/2026: One paper accepted to {{<font color="Red">ICLR 2026</font>}}!
 -- "Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits": This work studies multi-objective prompt optimization under a budget constraint using tools from pure-exploration bandits. It extends the framework introduced in [https://arxiv.org/abs/2402.09723 our previous work] (NeurIPS 2024), which established a connection between bandit algorithms and prompt optimization.
 
@@ -41,8 +45,8 @@ My research interests lie in machine learning, with a focus on intelligent decis
 
 - 09/2025: I have joined Princeton University as a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative! Feeling excited for this new adventure!
 
-- 05/2025: One paper accepted to {{<font color="Red">UAI 2025</font>}}!
--- "[https://arxiv.org/abs/2505.13768 Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis]": We propose a unified RL approach that combines offline data with online exploration, yielding improved sub-optimality and regret bounds while revealing distinct coverage requirements. #This is a joint work with Ruiquan Huang (PSU), Donghao Li (UVA), Prof. Cong Shen (UVA), and Prof. Jing Yang (UVA).
+#- 05/2025: One paper accepted to {{<font color="Red">UAI 2025</font>}}!
+#-- "[https://arxiv.org/abs/2505.13768 Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis]": We propose a unified RL approach that combines offline data with online exploration, yielding improved sub-optimality and regret bounds while revealing distinct coverage requirements. #This is a joint work with Ruiquan Huang (PSU), Donghao Li (UVA), Prof. Cong Shen (UVA), and Prof. Jing Yang (UVA).
 
 #- 01/2025: One paper accepted to {{<font color="Red">ICLR 2025</font>}}!
 #-- "[https://arxiv.org/abs/2409.02392 Building Math Agents with Multi-Turn Iterative Preference Learning]": We propose a multi-turn direct preference learning framework to enhance the mathematical reasoning capabilities of large language models (LLMs), with its superiority demonstrated by both theoretical guarantees and empirical results. This is a joint work with many amazing researchers from UIUC, Princeton, Google Research, and Google Deepmind.
