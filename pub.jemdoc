@@ -5,6 +5,9 @@
 
 \*: Equal contribution
 
+== Preprints
+. *C. Shi\**, W. Li\*, X. Liang\*, Y. Lu, W. Yang, R. Feng, S. Karten, Z. Yang, Z. Ding, G. Sarch, D. Chen, K. Narasimhan, and C. Jin, "[https://arxiv.org/abs/2605.00347 Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning]", May 2026
+
 == Journal Papers
 . \[TMLR\] *C. Shi*, R. Zhou, K. Yang, and C. Shen, "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]", Transactions on Machine Learning Research, July 2024
 .. Also appears in NeurIPs 2023 Workshop on Multi-Agent Security, Dec. 2023

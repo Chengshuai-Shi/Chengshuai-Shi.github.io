@@ -31,6 +31,11 @@ My research interests lie in machine learning, with a focus on intelligent decis
 #~~~
 
 == News
+- 05/2026: Project {{<font color="Orange">Odysseus</font>}} is now released!
+-- Paper: "[https://arxiv.org/abs/2605.00347 Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning]", with the project website [https://odysseus-project.github.io/ here]
+-- We study how to make reinforcement learning stable and effective for training VLM agents in long-horizon, visually grounded environments, using Super Mario Land as a testbed. Successful play in Super Mario Land often requires *100+ turns* of closed-loop control, whereas existing VLM-RL work has mostly focused on shorter-horizon settings, typically around 20–30 turns. We propose Odysseus, a framework that combines lightweight SFT initialization with multi-task RL. The resulting trained model outperforms the base model by 5× and the strongest frontier model we evaluated by 3.6× in game performance. It also shows clear generalization to unseen levels and cross-game transfer to Super Mario Bros., while preserving the base model’s capabilities on general-purpose multimodal benchmarks.
+
+
 - 04/2026: Two papers accepted to {{<font color="Red">ICML 2026</font>}}!
 -- "f-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses": This work provides the first unified theory and provably efficient online RLHF algorithms for general f-divergence regularization, covering alternatives beyond reverse KL such as forward KL and chi-squared divergence.
 -- "SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection": This work proposes a framework SMILE to jointly optimize instructions and ICL demonstrations by modeling their interactions with a submodular surrogate, yielding more robust prompt optimization than separately tuning each component.
