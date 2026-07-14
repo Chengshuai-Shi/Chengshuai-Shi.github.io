@@ -9,8 +9,8 @@
 . Z. Chen, S. Dong, *C. Shi*, P. Wang, S. Wang, C. Shen, and J. Li, "[https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]", June 2026
 . B. Lyu, Y. Yang, S. Huang, J. Zhang, Q. Xu, X. Li, X. Han, Y. Zhang, H. Zhang, R. Huang, K. Yang, Z. Chen, W. Guo, J. Yang, X. Ai, W. Chai, Y. Cao, Z. Yang, K. Wang, D. Jiang, H. Gao, S. Tang, *C. Shi*, S. Du, M. Simchowitz, J. Jiao, D. Song, and C. Jin, "[https://arxiv.org/abs/2605.08678 MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI]", May 2026
 . S. Karten, J. Zhang, T. Upaa Jr, R. Feng, W. Li, *C. Shi*, C. Jin, and K. Vodrahalli, "[https://arxiv.org/abs/2605.09998 Continual Harness: Online Adaptation for Self-Improving Foundation Agents]", May 2026
-. S. Dong, Z. Chen, *C. Shi*, P. Wang, J. Li, and C. Shen, "[https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]", May 2026
 .. Blog on Continual Harness tackling the ARC-AGI-3 tasks: "[https://continual-harness.github.io/ Continual Harness: An Efficient Self-Improving Agent on ARC-AGI-3]"
+. S. Dong, Z. Chen, *C. Shi*, P. Wang, J. Li, and C. Shen, "[https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]", May 2026
 
 == Journal Papers
 . \[TMLR\] *C. Shi*, R. Zhou, K. Yang, and C. Shen, "[https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]", Transactions on Machine Learning Research, July 2024
