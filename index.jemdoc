@@ -35,6 +35,8 @@ My research centers on intelligent decision-making, with a growing focus on inte
 
 == News
 
+- 09/2026: Three papers accepted to {{<font color="Red">NeurIPS 2026</font>}}!
+
 - 05/2026: Project {{<font color="Orange">Odysseus</font>}} is now released!
 -- "[https://arxiv.org/abs/2605.00347 Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning]", with the project website [https://odysseus-project.github.io/ here]
 -- We study how to make reinforcement learning stable and effective for training VLM agents in long-horizon, visually grounded environments, using Super Mario Land as a testbed. Successful play in Super Mario Land often requires *100+ turns* of closed-loop control, whereas existing VLM-RL work has mostly focused on shorter-horizon settings, typically around 20–30 turns. We propose Odysseus, a framework that combines lightweight SFT initialization with multi-task RL. The resulting trained model outperforms the base model by 5× and the strongest frontier model we evaluated by 3.6× in game performance. It also shows clear generalization to unseen levels and cross-game transfer to Super Mario Bros., while preserving the base model’s capabilities on general-purpose multimodal benchmarks.
@@ -50,8 +52,8 @@ My research centers on intelligent decision-making, with a growing focus on inte
 
 - 10/2025: Will attend the [https://eastrailblazers.caltech.edu/symposiums/2025-trailblazers-symposium 2025 EAS Trailblazers Symposium] at Caltech as one of the seven trailblazers!
 
-- 09/2025: One paper accepted to {{<font color="Red">NeurIPS 2025</font>}}!
--- "[https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]": We show that, under both the Bradley–Terry model and a more general preference model, greedy sampling based on empirical estimates is provably efficient for RLHF with the KL-regularized objective. #This work is a joint work with Di Wu (UVA), Prof. Jing Yang (UVA), and Prof. Cong Shen (UVA).
+#- 09/2025: One paper accepted to {{<font color="Red">NeurIPS 2025</font>}}!
+#-- "[https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]": We show that, under both the Bradley–Terry model and a more general preference model, greedy sampling based on empirical estimates is provably efficient for RLHF with the KL-regularized objective. #This work is a joint work with Di Wu (UVA), Prof. Jing Yang (UVA), and Prof. Cong Shen (UVA).
 
 - 09/2025: I have joined Princeton University as a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative! Feeling excited for this new adventure!
 
