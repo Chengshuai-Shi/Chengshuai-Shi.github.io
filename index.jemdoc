@@ -7,7 +7,7 @@ Postdoctoral Fellow
 
 [https://pli.princeton.edu/ Princeton Language and Intellegence], [https://www.princeton.edu/ Princeton University]
 
-Email: [cs1083@princeton.edu cs1083 at princeton dot edu]
+Email: [chengshuai@princeton.edu chengshuai at princeton dot edu]
 
 Phone: 434-218-9860
 
@@ -36,6 +36,9 @@ My research centers on intelligent decision-making, with a growing focus on inte
 == News
 
 - 09/2026: Three papers accepted to {{<font color="Red">NeurIPS 2026</font>}}!
+-- "[https://arxiv.org/abs/2607.21856 LeAct: Learning to Reason from Expert Actions]": LeAct teaches foundation models to reason from expert actions without annotated reasoning by generating and selecting explanations that improve action prediction, turning “silent” expert systems into reasoning teachers and outperforming direct imitation in games and simulated robotics.
+-- "[https://arxiv.org/abs/2605.08678 MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI]": MLS-Bench introduces a 140-task benchmark across 12 ML domains to test whether AI agents can invent generalizable and scalable machine-learning methods, finding that current agents are much better at engineering/tuning than at genuine methodological discovery.
+-- "Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation": SCPO improves RLVR by estimating advantage baselines using skill-related task groups rather than prompt-local or global averages, yielding more accurate credit assignment and more stable, higher-performing reasoning-model training.
 
 - 05/2026: Project {{<font color="Orange">Odysseus</font>}} is now released!
 -- "[https://arxiv.org/abs/2605.00347 Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning]", with the project website [https://odysseus-project.github.io/ here]
@@ -45,7 +48,7 @@ My research centers on intelligent decision-making, with a growing focus on inte
 
 - 04/2026: Two papers accepted to {{<font color="Red">ICML 2026</font>}}!
 -- "[https://arxiv.org/abs/2605.06977 f-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses]": This work provides the first unified theory and provably efficient online RLHF algorithms for general f-divergence regularization, covering alternatives beyond reverse KL such as forward KL and chi-squared divergence.
--- "SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection": This work proposes a framework SMILE to jointly optimize instructions and ICL demonstrations by modeling their interactions with a submodular surrogate, yielding more robust prompt optimization than separately tuning each component.
+-- "[https://openreview.net/forum?id=R8hivF3AkV SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection]": This work proposes a framework SMILE to jointly optimize instructions and ICL demonstrations by modeling their interactions with a submodular surrogate, yielding more robust prompt optimization than separately tuning each component.
 
 - 01/2026: One paper accepted to {{<font color="Red">ICLR 2026</font>}}!
 -- "[https://arxiv.org/abs/2605.14553 Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits]": This work studies multi-objective prompt optimization under a budget constraint using tools from pure-exploration bandits. It extends the framework introduced in [https://arxiv.org/abs/2402.09723 our previous work] (NeurIPS 2024), which established a connection between bandit algorithms and prompt optimization.
@@ -55,7 +58,7 @@ My research centers on intelligent decision-making, with a growing focus on inte
 #- 09/2025: One paper accepted to {{<font color="Red">NeurIPS 2025</font>}}!
 #-- "[https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]": We show that, under both the Bradley–Terry model and a more general preference model, greedy sampling based on empirical estimates is provably efficient for RLHF with the KL-regularized objective. #This work is a joint work with Di Wu (UVA), Prof. Jing Yang (UVA), and Prof. Cong Shen (UVA).
 
-- 09/2025: I have joined Princeton University as a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative! Feeling excited for this new adventure!
+#- 09/2025: I have joined Princeton University as a Postdoctoral Fellow at the [https://pli.princeton.edu/ Princeton Language and Intelligence (PLI)] initiative! Feeling excited for this new adventure!
 
 #- 05/2025: One paper accepted to {{<font color="Red">UAI 2025</font>}}!
 #-- "[https://arxiv.org/abs/2505.13768 Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis]": We propose a unified RL approach that combines offline data with online exploration, yielding improved sub-optimality and regret bounds while revealing distinct coverage requirements. #This is a joint work with Ruiquan Huang (PSU), Donghao Li (UVA), Prof. Cong Shen (UVA), and Prof. Jing Yang (UVA).
